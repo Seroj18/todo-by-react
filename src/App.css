@@ -1,0 +1,15 @@
+.navigation{
+  display: grid;
+  grid-template-columns: 140px 500px 200px;
+  margin: 21px 0 0 30px;
+}
+
+.logo{
+  width: 112px;
+  height: 112px;
+  background-color: #C4C4C4;
+}
+
+.register{
+  border: 1px solid black;
+}
